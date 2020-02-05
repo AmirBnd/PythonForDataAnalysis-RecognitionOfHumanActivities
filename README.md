@@ -31,7 +31,7 @@ https://archive.ics.uci.edu/ml/datasets/Smartphone-Based+Recognition+of+Human+Ac
     pip install keras<br/>
     pip install lightgbm<br/>
     pip install django<br/><br/>
-5 - Ouvir votre shell et faire un "git clone https://github.com/oOMiRoUOo/PythonForDataAnalysis-RecognitionOfHumanActivities.git" dans le dossier de votre choix, ou directement télécharger le .zip depuis Github et décompresserle dossier.<br/>
+5 - Ouvrir votre shell et faire un "git clone https://github.com/oOMiRoUOo/PythonForDataAnalysis-RecognitionOfHumanActivities.git" dans le dossier de votre choix, ou télécharger directement le .zip depuis Github et décompresser le dossier.<br/>
 6 - Ouvrir "Jupyter Notebook (Anaconda)"<br/>
 7 - Ouvrir le fichier "Etude du DataSet (NoteBook).ipynb"<br/>
 8 - Executez tous les scripts<br/>
