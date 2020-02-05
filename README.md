@@ -37,7 +37,7 @@ https://archive.ics.uci.edu/ml/datasets/Smartphone-Based+Recognition+of+Human+Ac
 8 - Executez tous les scripts<br/>
 
 ## Lancer l'API
-#### Ouvrez Anaconda Powershell Prompt, placez vous dans le dossier API. Faites un "python manage.pyrunserver".
+#### Ouvrez Anaconda Powershell Prompt, placez vous dans le dossier API. Faites un "python manage.py runserver".
 
 ## Résumé
 #### Un résumé de l'étude est disponible sous forme de powerpoint sur le fichier "Présentation.pptx".
